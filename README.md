@@ -1,1 +1,1 @@
-![] blade_runner_chesstable.jpg
+![](blade_runner_chesstable.jpg)
