@@ -16,9 +16,9 @@
 Sou programador backend em Python e estou me especializando em Data Science, Marchine-Learning and AI. 
 
 
-- 🎲 Programador backend em Python
+- 👩‍💻 Programador backend em Python
 - 💙 Fã de old pc games e sci-fi movies
-- 👩‍💻 Aprendendo sobre Data Science, Machine-Learning e AI
+- 📚 Aprendendo sobre Data Science, Machine-Learning e AI
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Pyhton" alt="Python" width="40" height="40"/>&nbsp;
