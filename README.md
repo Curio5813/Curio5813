@@ -13,7 +13,7 @@
   <a/>
 </div>
 
-Sou programador Backend em Python e estou me especializando em Data Science, Marchine-Learning and AI. 
+Sou programador backend em Python e estou me especializando em Data Science, Marchine-Learning and AI. 
 
 
 - 🎲 Estudante de Data Science, Machine-Learning e AI
