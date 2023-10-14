@@ -33,6 +33,6 @@ Sou programador backend em Python e estou me especializando em Data Science, Mar
 
 
 <div align = "left">
-<img height = "280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Curio5813&show_icons=true&theme=bear&count_private=true"/>
-<img height = "280em" src="https://github-readme-stats.vercel.app/api?username=Curio5813&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<img height = "290em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Curio5813&show_icons=true&theme=bear&count_private=true"/>
+<img height = "290em" src="https://github-readme-stats.vercel.app/api?username=Curio5813&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
