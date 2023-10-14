@@ -1,6 +1,6 @@
 <img src = "blade_runner_chesstable.jpg" width = "325px" align = "right">
 
-# 👨‍💻 Olá! É bom ter você por aqui. Vamos codar!
+# Olá! É bom ter você por aqui. Vamos codar!
 <div id="badges">
   <a href = "https://www.linkedin.com/feed/?trk=onboarding-landing">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
