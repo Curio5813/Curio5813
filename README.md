@@ -8,7 +8,7 @@
   <a href = "https://www.facebook.com/marcos.glasner">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   <a/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </div>
 Sou programador Backend em Python e estou me especializando em Data Science, Marchine-Learning and AI. 
 
