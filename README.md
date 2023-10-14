@@ -1,4 +1,4 @@
-<img src = "blade_runner_chesstable.jpg" width = "325px" align = "right">
+<img src = "anime_foto.jpg" width = "325px" align = "right">
 
 # Hello! Good to have you here. Let's code!
 <div id="badges">
