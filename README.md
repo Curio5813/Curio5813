@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   <a/>
 </div>
+
 Sou programador Backend em Python e estou me especializando em Data Science, Marchine-Learning and AI. 
 
 
