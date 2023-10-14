@@ -1,6 +1,6 @@
 <img src = "blade_runner_chesstable.jpg" width = "325px" align = "right">
 
-# Olá! É bom ter você por aqui. Vamos codar!
+# Hello! Good to have you here. Let's code!
 <div id="badges">
   <a href = "https://www.linkedin.com/feed/?trk=onboarding-landing">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,12 +13,12 @@
   <a/>
 </div>
 
-Sou programador backend em Python e estou me especializando em Data Science, Marchine-Learning and AI. 
+I'm a backend programmer in Python and I'm specializing in Data Science, Marchine-Learning and AI.
 
 
-- 👩‍💻 Programador backend em Python
-- 💙 Fã de old pc games e sci-fi movies
-- 📚 Aprendendo sobre Data Science, Machine-Learning e AI
+- 👩‍💻 Backend programmer in Python
+- 💙 Fan of old pc games and sci-fi movies
+- 📚 Learning about Data Science, Machine-Learning and AI
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Pyhton" alt="Python" width="40" height="40"/>&nbsp;
