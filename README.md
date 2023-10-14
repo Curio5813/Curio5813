@@ -2,8 +2,8 @@
 
 # 👨‍💻 Olá! É bom ter você por aqui. Vamos codar!
 <div id="badges">
-  <a href = "https://github.com/Curio5813">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href = "https://www.linkedin.com/feed/?trk=onboarding-landing">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href = "https://www.facebook.com/marcos.glasner">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
