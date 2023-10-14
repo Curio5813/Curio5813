@@ -17,7 +17,7 @@ Sou programador Backend em Python e estou me especializando em Data Science, Mar
 
 
 - 🎲 Estudante de Data Science, Machine-Learning e AI
-- 💙 Fã de Jogos Antigos de Computador
+- 💙 Fã de old pc games
 - 👩‍💻 Aprendendo sobre Front-end
 
 <div>
