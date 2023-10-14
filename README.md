@@ -33,6 +33,6 @@ I'm a backend programmer in Python and I'm specializing in Data Science, Marchin
 
 
 <div align = "left">
-<img height = "242em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Curio5813&show_icons=true&theme=bear&count_private=true"/>
-<img height = "242em" src="https://github-readme-stats.vercel.app/api?username=Curio5813&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+  <img height = "242em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Curio5813&show_icons=true&theme=bear&count_private=true"/>
+  <img height = "242em" src="https://github-readme-stats.vercel.app/api?username=Curio5813&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
