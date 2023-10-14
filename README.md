@@ -13,7 +13,7 @@
   <a/>
 </div>
 
-I'm a backend programmer in Python and I'm specializing in Data Science, Machine-Learning and AI.
+Hello, I'm an economist and accountant and a freelance backend programmer in Python specializing in Data Science, Machine Learning and AI.
 
 
 - 👩‍💻 Backend programmer in Python
