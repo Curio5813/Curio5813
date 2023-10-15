@@ -1,5 +1,3 @@
-<img src = "matrix_001.gif" width = "325px" align = "right">
-
 # Hello! Good to have you here. Let's code!
 <div id="badges">
   <a href = "https://www.linkedin.com/feed/?trk=onboarding-landing">
