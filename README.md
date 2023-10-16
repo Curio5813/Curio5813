@@ -1,3 +1,5 @@
+![](blade_runner_chesstable.jpg)
+
 # Hello! Good to have you here. Let's code!
 <div id="badges">
   <a href = "https://www.linkedin.com/feed/?trk=onboarding-landing">
