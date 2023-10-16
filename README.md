@@ -31,6 +31,6 @@ Hello, I'm an economist and accountant and a freelance backend programmer in Pyt
 
 
 <div align = "left">
-  <img height = "242em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Curio5813&show_icons=true&theme=bear&count_private=true"/>
+  <img height = "242em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Curio5813&show_icons=true&theme=radical&count_private=true"/>
   <img height = "242em" src="https://github-readme-stats.vercel.app/api?username=Curio5813&show_icons=true&theme=radical"/>
 </div>
