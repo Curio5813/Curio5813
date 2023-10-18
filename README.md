@@ -18,7 +18,7 @@ Hello, I'm an economist and accountant and a freelance backend programmer in Pyt
 
 - 👩‍💻 Backend programmer in Python
 - 💙 Fan of old pc games and sci-fi movies
-- 📚 Learning about Data Science, Machine-Learning and AI
+- 🌱 Learning about Data Science, Machine-Learning and AI
 - 📫 How to reach me marcosglasner@gmail.com
 
 <div>
