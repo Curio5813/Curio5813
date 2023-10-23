@@ -11,6 +11,8 @@
   <a href = "https://www.instagram.com/marcosglasner">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   <a/>
+  <a href = "https://discord.com/channels/@me">
+    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
 </div>
 
 Hello, I'm an economist and accountant and a freelance backend programmer in Python specializing in Data Science, Machine Learning and AI.
