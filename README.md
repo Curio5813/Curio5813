@@ -1,4 +1,6 @@
-![](matrix_002.jpg)
+<p align="center">
+  <img src="matrix_002.jpg">
+</p>
 
 # Hello! Good to have you here. Let's code!
 <div id="badges">
