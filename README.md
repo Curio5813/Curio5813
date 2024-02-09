@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="matrix_002.jpg">
+  <img src="matrix_003.jpg">
 </p>
 
 # Hello! Good to have you here. Let's code!
