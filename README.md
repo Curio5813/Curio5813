@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
 </div>
 
-Hello, I'm an economist and accountant and a freelance backend programmer in Python specializing in Web Developmente and Data Science.
+Hello, I'm an economist and accountant and a freelance backend programmer in Python specializing in Web Development and Data Science.
 
 
 - 👩‍💻 Backend programmer in Python
