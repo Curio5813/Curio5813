@@ -1,4 +1,4 @@
-![](matrix_001.gif)
+![](matrix_system_failure.jpg)
 
 # Hello! Good to have you here. Let's code!
 <div id="badges">
