@@ -17,12 +17,12 @@
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
 </div>
 
-Hello, I'm an economist and accountant and a freelance backend programmer in Python specializing in Data Science, Machine Learning and AI.
+Hello, I'm an economist and accountant and a freelance backend programmer in Python specializing in Web Developmente and Data Science.
 
 
 - 👩‍💻 Backend programmer in Python
 - 💙 Fan of old pc games and sci-fi movies
-- 🌱 Learning about Data Science, Machine-Learning and AI
+- 🌱 Learning about Web Development and Data Science
 - 📫 How to reach me marcosglasner@gmail.com
   
 # Languages and Tools
