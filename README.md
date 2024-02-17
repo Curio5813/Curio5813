@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="programacaa_capa.jpg">
+  <img src="circuito_integrado_001.jpg">
 </p>
 
 # Hello! Good to have you here. Let's code!
