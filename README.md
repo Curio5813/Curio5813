@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="circuito_integrado_001.jpg">
+  <img src="matrix_002.jpg">
 </p>
 
 # Hello! Good to have you here. Let's code!
