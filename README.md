@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="marcos_programming_at_night.jpeg">
+  <img src="marcos_programming_at_night004.jpeg">
 </p>
 
 # Hello! Good to have you here. Let's code!
