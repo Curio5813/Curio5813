@@ -17,10 +17,10 @@
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
 </div>
 
-Hello, I'm a backend programmer in Python specializing in Web Development and Data Science.
+Hello, I'm a Python Developer specializing in Web Development and Data Science.
 
 
-- 👩‍💻 Backend programmer in Python
+- 👩‍💻 Python Developer
 - 💙 Fan of old pc games and sci-fi movies
 - 🌱 Learning about Web Development and Data Science
 - 📫 How to reach me marcosglasner@gmail.com
