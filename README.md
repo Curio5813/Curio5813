@@ -28,6 +28,7 @@ Hello, I'm a Python Developer specializing in Web Development and Data Science.
 # Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Pyhton" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-line.svg" title="Django REST Framework" alt="DRF" width="40" height="40"/>&nbsp;
