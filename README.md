@@ -48,5 +48,5 @@ Hello, I'm a Python Developer specializing in Web Development and Data Science.
 
 <div align = "left">
   <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Curio5813&show_icons=true&theme=radical&count_private=true"/>
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical"/>
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Curio5813&show_icons=true&theme=radical"/>
 </div>
