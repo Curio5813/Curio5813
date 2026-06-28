@@ -41,7 +41,6 @@ Olá, sou um desenvolvido ou Python especializado em desenvolvimento Web e ciên
   <imagem fonte="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" título="mongoDB" alt="mongoDB" largura="40" alta="40"/>&nbsp;
   <imagem fonte="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" título="Redis" alt="Redis" largura="40" alta="40"/>&nbsp;
   <imagem fonte="https://github.com/devicons/devicon/blob/master/icons/couchdb/couchdb-original.svg" título="CouchDB" alt="CouchDB" largura="40" alta="40"/>&nbsp;
-&nbsp;
 </div>
 
 ---
