@@ -1,14 +1,14 @@
-<p align="center">
-  <img src="marcos_programming_at_night004.jpeg">
+<p alinhar="centro">
+  <imagem fonte="marcos_programming_at_night004.jpeg">
 </p>
 
-# Hello! Good to have you here. Let's code!
-<div id="badges">
+# Olá! Que bom ter você aqui. Vamos codificar!
+<dividir id="emblemas">
   <a href = "https://www.linkedin.com/feed/?trk=onboarding-landing">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <imagem fonte="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logotipo=linkedin&logoColor=branco" alt="Emblema do LinkedIn"/>
   </a>
   <a href = "https://www.facebook.com/marcos.glasner">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    <imagem fonte="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logotipo=facebook&logoColor=branco" alt="Emblema do Facebook"/>
   <a/>
   <a href = "https://www.instagram.com/marcosglasner">
     <imagem fonte="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logotipo=instagram&logoColor=branco" alt="Emblema do Instagram"/>
@@ -26,7 +26,7 @@ Olá, sou um desenvolvido ou Python especializado em desenvolvimento Web e ciên
 - 📫 Como chegar até mim marcosglasner@gmail.com
   
 # Idiomas e Ferramentas
-<dividir>
+<div>
   <imagem fonte="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" título="Píton" alt="Python" largura="40" alta="40"/>&nbsp;
   <imagem fonte="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" título="Java" alt="Java" largura="40" alta="40"/>&nbsp;
   <imagem fonte="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" título="C" alt="C" largura="40" alta="40"/>&nbsp;
@@ -41,13 +41,14 @@ Olá, sou um desenvolvido ou Python especializado em desenvolvimento Web e ciên
   <imagem fonte="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" título="mongoDB" alt="mongoDB" largura="40" alta="40"/>&nbsp;
   <imagem fonte="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" título="Redis" alt="Redis" largura="40" alta="40"/>&nbsp;
   <imagem fonte="https://github.com/devicons/devicon/blob/master/icons/couchdb/couchdb-original.svg" título="CouchDB" alt="CouchDB" largura="40" alta="40"/>&nbsp;
-</dividir>
+&nbsp;
+</div>
 
 ---
 
 
-<dividir alinhar = "esquerda">
+<div alinhar = "esquerda">
   <imagem alta = "200em" fonte="https://github-readme-stats-git-master-curio5813s-projects.vercel.app/api/top-langs/?username=Curio5813&tema=radical&maisrar_ícones=verdadeiro&contagem_privada=verdadeiro
 "/>
   <imagem alta = "200em" fonte="https://github-readme-stats-one-bice.vercel.app/api?username=Curio5813&maisrar_ícones=verdadeiro&tema=radical"/>
-  </dividir>
+  </div>
