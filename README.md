@@ -1,14 +1,14 @@
-<p alinhar="centro">
-  <imagem fonte="marcos_programming_at_night004.jpeg">
+<p align="center">
+  <img src="marcos_programming_at_night004.jpeg">
 </p>
 
-# Olá! Que bom ter você aqui. Vamos codificar!
-<dividir id="emblemas">
+# Hello! Good to have you here. Let's code!
+<div id="badges">
   <a href = "https://www.linkedin.com/feed/?trk=onboarding-landing">
-    <imagem fonte="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logotipo=linkedin&logoColor=branco" alt="Emblema do LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href = "https://www.facebook.com/marcos.glasner">
-    <imagem fonte="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logotipo=facebook&logoColor=branco" alt="Emblema do Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   <a/>
   <a href = "https://www.instagram.com/marcosglasner">
     <imagem fonte="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logotipo=instagram&logoColor=branco" alt="Emblema do Instagram"/>
